@@ -19,6 +19,7 @@ The goal of this repository is to:
 - **Gradient Descent: Batch GD, Stochastic GD, Mini-Batch GD**
 - **Regularization: Lasso Regularization, Ridge Regulariztion, ElasticNet Regularization**
 - **Polynomial Regression**
+- **Logistic Regression**
 
 
 - More to be added as I progress.
