@@ -20,6 +20,7 @@ The goal of this repository is to:
 - **Regularization: Lasso Regularization, Ridge Regulariztion, ElasticNet Regularization**
 - **Polynomial Regression**
 - **Logistic Regression**
+- **K Nearest Neighbors**
 
 
 - More to be added as I progress.
